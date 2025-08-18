@@ -12,10 +12,7 @@
 ---
 
 ## About the Project
-
-This is a modern, mobile-friendly website tailored for a construction or handyman business.  
-It features dedicated sections like Home, About Us, Team, and a strong Landing area — giving a complete overview of a company's values, vision, and services.
-
+We founded Black and White on three core values: simplicity, trust, and skilled craftsmanship. Our mission is clear — to deliver high-quality, timely, and clean construction and renovation services, with no unnecessary complications. We believe precision and clarity in our work build lasting trust.
 ✅ Built 100% with **custom CSS**  
 ✅ Fully responsive and beginner-friendly  
 ✅ Great reference for clean layout and HTML/CSS structure
