@@ -5,7 +5,7 @@
 
 **A responsive and clean web page built entirely with pure CSS.**
 
-[**➥ Live Demo**](https://github.com/MeryTonoyan/Black-White.git)
+[**➥ Live Demo**](https://merytonoyan.github.io/Black-White/)
 
 </div>
 
