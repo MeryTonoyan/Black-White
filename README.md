@@ -21,7 +21,7 @@ We founded Black and White on three core values: simplicity, trust, and skilled 
 
 ## Demo Screenshot
 
-![Desktop Demo](./img.jpg "Desktop Demo")
+![Desktop Demo](./images/screencapture-localhost-63342-Black-White-index-html-2025-08-19-11_30_47.png "Desktop Demo")
 
 ---
 
@@ -39,8 +39,8 @@ git clone https://github.com/MeryTonoyan/Black-White.git
 
 If you'd like to connect, collaborate, or just explore more of my work:
 
-- 🔗 **See more on GitHub**: [Sarah-petrosyan](https://github.com/Sarah-petrosyan)
-- 💼 **Connect with me on LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/jobs/)
+- 🔗 **See more on GitHub**: [MeryTonoyan](https://github.com/Sarah-petrosyan)
+- 💼 **Connect with me on LinkedIn**:(https://www.linkedin.com/jobs/)
 
 Feel free to reach out!
 
